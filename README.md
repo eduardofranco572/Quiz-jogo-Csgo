@@ -1,14 +1,5 @@
 # Quiz-jogo-Csgo
-Projeto antigo meu, o qual encontrei hoje. Se trata de um quiz sobre o jogo csgo, foi programado em PHP pois era uma prova do meu curso
-
-Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de Font-End. projeto foi realizado seguindo um curso da plataforma Alura. 
-
-<br>
- <div align="center">
-    <h1>Site do Projeto:</h1>
-    https://eduardofranco572.github.io/MoniBank/
-   <br>    
-</div>
+Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado. Projeto antigo meu, o qual encontrei hoje. Se trata de um quiz sobre o jogo csgo, foi programado em PHP pois era uma prova do meu curso
 <br>
   Aqui são umas das linguagens de progamação que tenho conhecimento. e que utilizo para criar meus sites 💻
 <br>
