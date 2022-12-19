@@ -1,0 +1,25 @@
+*{
+    color: white;
+}
+
+body{
+    background-image: url("fundo.jpg");
+    
+}
+
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 19px;
+}
+
+.intro{
+    font-size: 30px;
+    margin-top: 180px;
+    color: white;
+    text-align: center
+}
+
+
+
